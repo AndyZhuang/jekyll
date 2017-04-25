@@ -5,6 +5,7 @@ categories:
 - bar
 - baz
 - z_category
+- MixedCase
 tags:
 - first
 - second
@@ -20,4 +21,4 @@ Second paragraph
 
 Third paragraph
 
-[link]: http://www.jekyllrb.com/
+[link]: https://jekyllrb.com/
